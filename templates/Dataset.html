@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict Income</title>
+</head>
+<body>
+    <h1>ทำนายรายได้ส่วนบุคคล</h1>
+
+    <form action="/predict" method="POST">
+        <!-- ฟิลด์สำหรับใส่อายุ (input type="number") -->
+        <label for="age">อายุ:</label>
+        <input type="number" id="age" name="age" value="{{ selected_age }}" required><br>
+
+        <!-- ฟิลด์สำหรับเลือกเพศ -->
+        <label for="gender">เพศ:</label>
+        <select id="gender" name="gender" required>
+            <option value="Male" {% if selected_gender == 'Male' %}selected{% endif %}>Male</option>
+            <option value="Female" {% if selected_gender == 'Female' %}selected{% endif %}>Female</option>
+            <option value="Other" {% if selected_gender == 'Other' %}selected{% endif %}>Other</option>
+        </select><br>
+
+        <!-- ฟิลด์สำหรับเลือกการศึกษา -->
+        <label for="education">เลือกการศึกษา:</label>
+        <select id="education" name="education" required>
+            <option value="High School" {% if selected_education == 'High School' %}selected{% endif %}>High School</option>
+            <option value="Bachelor's Degree" {% if selected_education == "Bachelor's Degree" %}selected{% endif %}>Bachelor's Degree</option>
+            <option value="Master's Degree" {% if selected_education == "Master's Degree" %}selected{% endif %}>Master's Degree</option>
+            <option value="PhD" {% if selected_education == "PhD" %}selected{% endif %}>PhD</option>
+        </select><br>
+
+        <!-- ฟิลด์สำหรับเลือกอาชีพ -->
+        <label for="occupation">เลือกอาชีพ:</label>
+        <select id="occupation" name="occupation" required>
+            <option value="Tech" {% if selected_occupation == 'Tech' %}selected{% endif %}>Tech</option>
+            <option value="Healthcare" {% if selected_occupation == 'Healthcare' %}selected{% endif %}>Healthcare</option>
+            <option value="Education" {% if selected_occupation == 'Education' %}selected{% endif %}>Education</option>
+            <option value="Student" {% if selected_occupation == 'Student' %}selected{% endif %}>Student</option>
+            <option value="Other" {% if selected_occupation == 'Other' %}selected{% endif %}>Other</option>
+        </select><br>
+
+        <!-- ฟิลด์สำหรับสถานะความสัมพันธ์ -->
+        <label for="relationship_status">สถานะความสัมพันธ์:</label>
+        <select id="relationship_status" name="relationship_status" required>
+            <option value="Single" {% if selected_relationship_status == 'Single' %}selected{% endif %}>Single</option>
+            <option value="In a relationship" {% if selected_relationship_status == 'In a relationship' %}selected{% endif %}>In a relationship</option>
+            <option value="Married" {% if selected_relationship_status == 'Married' %}selected{% endif %}>Married</option>
+            <option value="Widowed" {% if selected_relationship_status == 'Widowed' %}selected{% endif %}>Widowed</option>
+        </select><br>
+
+        <!-- ฟิลด์สำหรับสถานะการสมรส -->
+        <label for="marital_status">สถานะการสมรส:</label>
+        <select id="marital_status" name="marital_status" required>
+            <option value="Single" {% if selected_marital_status == 'Single' %}selected{% endif %}>Single</option>
+            <option value="Married" {% if selected_marital_status == 'Married' %}selected{% endif %}>Married</option>
+            <option value="Divorced" {% if selected_marital_status == 'Divorced' %}selected{% endif %}>Divorced</option>
+        </select><br>
+
+        <!-- ปุ่มทำนายรายได้ -->
+        <button type="submit">Predict Income</button>
+        <button type="button" onclick="refreshPage()">Refresh</button>
+    </form>
+
+    <!-- แสดงผลลัพธ์การทำนายรายได้ -->
+    {% if prediction %}
+    <h2>Predicted Income: {{ "{:,}".format(prediction) }} THB</h2>
+    {% endif %}
+
+    <!-- แสดงตารางข้อมูลจาก dataset.csv -->
+    <a href="/dataset" class="btn">All Data from Dataset</a>
+
+    <table border="5">
+        <tr>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>Education</th>
+            <th>Occupation</th>
+            <th>Relationship Status</th>
+            <th>Marital Status</th>
+            <th>Income</th>
+        </tr>
+        {% for record in data %}
+        <tr>
+            <td>{{ record['Age'] }}</td>
+            <td>{{ record['Gender'] }}</td>
+            <td>{{ record['Education'] }}</td>
+            <td>{{ record['Occupation'] }}</td>
+            <td>{{ record['Relationship Status'] }}</td>
+            <td>{{ record['Marital Status'] }}</td>
+            <td>{{ "{:,}".format(record['Income']|int) }} THB</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <!-- ฟังก์ชันเลื่อนหน้า -->
+    <script>
+        function scrollToBottom() {
+            window.scrollTo({
+                top: document.body.scrollHeight,
+                behavior: 'smooth'
+            });
+        }
+        function refreshPage() {
+            window.location.href = "/";
+        }
+    </script>
+
+    <!-- การตกแต่ง CSS -->
+    <style>
+        h1, h2, h3 {
+            text-align: center;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 20px;
+        }
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            margin: auto;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #555;
+        }
+        input, select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        
+        }
+        button {
+            background-color: #28a745;
+            width: 100%;
+            padding: 10px;
+            background-color: #5956e9;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #4744c2;
+        }
+        table {
+            width: 100%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+            text-align: center;
+        }
+        th, td {
+            padding: 8px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</body>
+</html>

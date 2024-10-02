@@ -1,0 +1,501 @@
+Age,Gender,Education,Occupation,Relationship Status,Marital Status,Income
+24,Female,Bachelor's Degree,Other,Single,Married,46900
+78,Female,PhD,Healthcare,Widowed,Single,98700
+48,Male,PhD,Other,Widowed,Single,90000
+46,Other,High School,Other,Widowed,Single,17600
+39,Other,Bachelor's Degree,Tech,Widowed,Single,25300
+48,Female,Master's Degree,Other,Married,Married,51700
+58,Other,PhD,Education,Divorced,Single,88800
+57,Other,PhD,Tech,Married,Married,97800
+63,Male,Bachelor's Degree,Healthcare,Divorced,Married,29100
+43,Female,High School,Healthcare,Divorced,Single,14300
+43,Other,Master's Degree,Education,Single,Married,75100
+57,Other,Master's Degree,Healthcare,Divorced,Married,59800
+25,Female,Bachelor's Degree,Education,Divorced,Single,39800
+43,Male,High School,Healthcare,Divorced,Single,11400
+73,Other,PhD,Healthcare,Divorced,Single,89400
+18,Other,High School,Tech,Single,Single,15300
+44,Female,High School,Business,Widowed,Married,13800
+77,Other,PhD,Business,Married,Single,98300
+53,Other,PhD,Tech,Widowed,Married,85900
+31,Other,High School,Healthcare,Married,Single,16300
+45,Female,High School,Business,Married,Married,8400
+42,Other,Master's Degree,Tech,Single,Married,55800
+69,Other,Master's Degree,Other,Widowed,Single,77600
+37,Male,Master's Degree,Education,Widowed,Married,52100
+19,Female,Bachelor's Degree,Other,Single,Single,34400
+26,Male,Bachelor's Degree,Other,Single,Single,24900
+38,Female,High School,Other,Widowed,Married,12000
+29,Male,PhD,Education,Married,Married,84400
+63,Female,High School,Business,Single,Married,11400
+17,Other,High School,Student,Single,Single,12800
+64,Other,Bachelor's Degree,Healthcare,Single,Single,31800
+35,Female,Bachelor's Degree,Education,Married,Single,24900
+38,Other,High School,Education,Married,Single,11900
+19,Other,Bachelor's Degree,Tech,Single,Single,30800
+42,Female,PhD,Business,Single,Single,90200
+58,Male,Master's Degree,Business,Divorced,Married,53400
+40,Other,Bachelor's Degree,Other,Divorced,Married,34600
+44,Female,High School,Healthcare,Married,Single,11300
+62,Female,High School,Business,Married,Single,8900
+28,Male,PhD,Healthcare,Married,Married,89500
+55,Other,Master's Degree,Education,Single,Single,52000
+32,Other,Bachelor's Degree,Education,Widowed,Married,27400
+45,Other,PhD,Other,Divorced,Single,80400
+57,Female,High School,Tech,Married,Single,11200
+15,Female,High School,Student,Single,Single,12800
+53,Female,Master's Degree,Healthcare,Married,Married,54300
+25,Male,Bachelor's Degree,Business,Married,Single,44100
+31,Other,Bachelor's Degree,Business,Widowed,Married,29700
+28,Male,Master's Degree,Business,Widowed,Married,50400
+28,Female,Master's Degree,Tech,Married,Single,55400
+67,Female,High School,Other,Single,Married,16300
+42,Female,High School,Healthcare,Married,Married,8600
+18,Other,High School,Tech,Single,Single,16700
+15,Male,High School,Student,Single,Single,18100
+42,Male,Bachelor's Degree,Tech,Married,Married,21400
+64,Female,High School,Healthcare,Married,Single,12400
+26,Female,Master's Degree,Business,Divorced,Single,54000
+48,Other,Bachelor's Degree,Healthcare,Married,Single,49600
+30,Male,PhD,Healthcare,Divorced,Single,89300
+63,Other,Bachelor's Degree,Tech,Divorced,Single,45100
+58,Other,Master's Degree,Tech,Married,Married,58600
+72,Other,PhD,Tech,Divorced,Married,97200
+30,Other,Master's Degree,Other,Married,Married,54200
+45,Male,High School,Business,Single,Single,15000
+45,Male,Master's Degree,Tech,Married,Married,56800
+71,Male,Master's Degree,Education,Married,Single,67400
+18,Female,High School,Education,Single,Single,16400
+76,Other,Bachelor's Degree,Other,Widowed,Single,28300
+30,Female,PhD,Education,Married,Married,90000
+23,Other,Master's Degree,Business,Married,Married,75400
+67,Male,High School,Other,Single,Single,19400
+54,Other,Master's Degree,Healthcare,Widowed,Single,54900
+61,Female,Master's Degree,Business,Married,Married,74600
+55,Female,PhD,Other,Single,Married,92600
+27,Other,Master's Degree,Tech,Divorced,Single,54800
+35,Female,Bachelor's Degree,Education,Married,Married,36700
+71,Female,Master's Degree,Education,Single,Married,69300
+63,Female,High School,Business,Divorced,Single,19900
+40,Other,Master's Degree,Other,Single,Married,65200
+42,Other,PhD,Business,Married,Single,93600
+48,Other,High School,Tech,Widowed,Married,10900
+46,Female,Master's Degree,Tech,Single,Married,53500
+51,Female,Bachelor's Degree,Tech,Widowed,Married,29900
+79,Female,High School,Education,Divorced,Single,19300
+53,Female,High School,Healthcare,Widowed,Married,12000
+53,Male,High School,Education,Single,Single,19100
+70,Other,High School,Healthcare,Widowed,Married,8400
+31,Other,Bachelor's Degree,Tech,Divorced,Married,47100
+16,Female,High School,Student,Single,Single,9200
+74,Female,Master's Degree,Education,Widowed,Married,74600
+76,Female,High School,Education,Widowed,Married,12900
+59,Female,Master's Degree,Business,Divorced,Married,78000
+69,Female,PhD,Other,Widowed,Single,98600
+33,Other,High School,Tech,Divorced,Single,16400
+55,Female,PhD,Tech,Widowed,Married,82900
+47,Other,PhD,Business,Widowed,Single,92100
+30,Female,PhD,Other,Single,Married,96200
+61,Male,PhD,Tech,Married,Single,87500
+47,Other,High School,Healthcare,Single,Single,9400
+58,Male,PhD,Healthcare,Married,Married,81800
+46,Female,PhD,Tech,Widowed,Married,80700
+15,Female,High School,Student,Single,Single,16000
+70,Other,PhD,Tech,Married,Single,92200
+34,Male,Master's Degree,Tech,Single,Single,71700
+34,Male,High School,Tech,Widowed,Single,19700
+40,Other,Bachelor's Degree,Tech,Single,Single,34300
+24,Female,Master's Degree,Healthcare,Divorced,Married,70000
+47,Female,High School,Other,Single,Married,14400
+41,Female,Master's Degree,Tech,Divorced,Married,72800
+51,Other,High School,Other,Single,Married,17600
+33,Male,Master's Degree,Healthcare,Married,Single,77700
+63,Female,Bachelor's Degree,Business,Single,Single,34300
+67,Male,High School,Other,Divorced,Married,8600
+60,Other,High School,Healthcare,Divorced,Single,12400
+38,Male,High School,Other,Married,Single,14800
+57,Male,PhD,Other,Widowed,Married,89000
+63,Other,Bachelor's Degree,Education,Divorced,Married,45800
+65,Other,PhD,Tech,Widowed,Married,90000
+69,Male,High School,Healthcare,Divorced,Married,8700
+61,Other,PhD,Education,Widowed,Single,86200
+37,Other,High School,Tech,Single,Married,16000
+60,Female,Bachelor's Degree,Education,Married,Married,26900
+79,Male,Master's Degree,Business,Single,Single,72900
+30,Other,PhD,Healthcare,Divorced,Single,94900
+80,Other,PhD,Business,Widowed,Single,91200
+65,Female,PhD,Business,Single,Married,98800
+46,Female,High School,Business,Single,Single,9800
+71,Other,Master's Degree,Education,Single,Single,67600
+30,Male,Master's Degree,Business,Widowed,Single,64000
+62,Other,High School,Business,Single,Married,11600
+55,Male,Master's Degree,Tech,Single,Married,68600
+29,Female,PhD,Other,Widowed,Single,87300
+22,Male,Bachelor's Degree,Student,Widowed,Married,35800
+30,Female,Master's Degree,Tech,Married,Single,50400
+75,Male,PhD,Business,Divorced,Married,87200
+42,Female,High School,Tech,Divorced,Married,10700
+38,Male,Master's Degree,Other,Widowed,Married,77600
+28,Other,PhD,Tech,Divorced,Single,86600
+63,Other,Bachelor's Degree,Other,Married,Single,37600
+53,Other,PhD,Other,Widowed,Single,98300
+41,Other,Master's Degree,Business,Divorced,Married,53200
+22,Female,Bachelor's Degree,Student,Widowed,Married,47300
+21,Male,Bachelor's Degree,Other,Married,Single,42300
+15,Other,High School,Student,Single,Single,11500
+39,Female,High School,Healthcare,Single,Married,17800
+18,Female,High School,Healthcare,Single,Single,12600
+49,Other,High School,Healthcare,Widowed,Single,15000
+78,Male,High School,Healthcare,Single,Married,8700
+57,Female,Master's Degree,Other,Widowed,Married,63000
+62,Other,Bachelor's Degree,Education,Divorced,Single,31400
+60,Male,High School,Tech,Divorced,Single,12400
+43,Other,High School,Business,Divorced,Married,19800
+57,Other,PhD,Other,Widowed,Married,94600
+71,Male,Master's Degree,Healthcare,Single,Single,69200
+30,Other,Master's Degree,Business,Married,Married,57900
+30,Female,PhD,Other,Widowed,Married,89400
+27,Male,PhD,Other,Divorced,Married,93600
+53,Male,Master's Degree,Tech,Divorced,Married,74200
+69,Female,Bachelor's Degree,Tech,Widowed,Married,36800
+32,Female,Bachelor's Degree,Education,Widowed,Single,46600
+62,Female,PhD,Business,Divorced,Single,88700
+32,Female,Bachelor's Degree,Tech,Married,Single,33500
+53,Male,Bachelor's Degree,Business,Married,Single,34200
+38,Male,Master's Degree,Healthcare,Divorced,Married,75400
+53,Other,Master's Degree,Business,Divorced,Married,70500
+49,Female,Bachelor's Degree,Other,Widowed,Married,48100
+79,Other,Bachelor's Degree,Other,Widowed,Married,38600
+26,Other,Master's Degree,Student,Widowed,Married,65400
+48,Male,High School,Healthcare,Divorced,Married,14300
+19,Other,Bachelor's Degree,Business,Single,Single,25600
+29,Male,Master's Degree,Business,Married,Married,63500
+79,Male,High School,Healthcare,Widowed,Single,9000
+67,Other,High School,Healthcare,Single,Married,18800
+25,Other,Master's Degree,Tech,Single,Single,77000
+73,Male,Bachelor's Degree,Business,Married,Single,35500
+46,Other,Master's Degree,Healthcare,Widowed,Married,67900
+35,Female,High School,Tech,Divorced,Married,11100
+35,Female,Bachelor's Degree,Other,Single,Single,47000
+76,Male,Master's Degree,Business,Widowed,Single,63700
+22,Male,Bachelor's Degree,Tech,Divorced,Single,36200
+68,Male,High School,Healthcare,Divorced,Married,19000
+37,Male,High School,Business,Married,Married,10800
+72,Other,PhD,Education,Single,Married,93900
+34,Female,High School,Tech,Divorced,Married,18300
+44,Female,Master's Degree,Business,Single,Married,66600
+59,Female,PhD,Tech,Widowed,Single,95300
+73,Male,PhD,Healthcare,Married,Single,94100
+52,Male,Master's Degree,Business,Divorced,Married,72900
+36,Male,High School,Tech,Widowed,Married,12700
+61,Female,Bachelor's Degree,Business,Widowed,Single,21800
+31,Female,PhD,Healthcare,Divorced,Single,97100
+17,Male,High School,Student,Single,Single,19000
+17,Female,High School,Student,Single,Single,11200
+27,Female,PhD,Other,Married,Married,90400
+16,Other,High School,Student,Single,Single,15700
+61,Other,PhD,Other,Single,Married,85100
+18,Male,High School,Healthcare,Single,Single,14800
+19,Male,Bachelor's Degree,Student,Single,Single,44800
+22,Male,Bachelor's Degree,Student,Married,Married,42100
+71,Other,Bachelor's Degree,Education,Married,Married,49600
+20,Male,Bachelor's Degree,Business,Single,Married,36200
+52,Female,Bachelor's Degree,Healthcare,Single,Married,30400
+36,Female,Bachelor's Degree,Other,Widowed,Single,26800
+63,Female,High School,Other,Widowed,Married,11000
+37,Female,PhD,Other,Married,Married,87500
+62,Female,Bachelor's Degree,Business,Divorced,Married,45200
+20,Male,Bachelor's Degree,Tech,Divorced,Single,31200
+42,Other,High School,Other,Married,Single,13600
+47,Other,High School,Business,Widowed,Single,15900
+44,Male,High School,Education,Divorced,Married,12100
+19,Other,Bachelor's Degree,Tech,Single,Single,48400
+22,Other,Bachelor's Degree,Student,Single,Single,22700
+35,Other,Master's Degree,Business,Married,Single,71100
+74,Other,PhD,Education,Widowed,Single,83400
+30,Other,Master's Degree,Tech,Divorced,Single,57100
+21,Other,Bachelor's Degree,Tech,Widowed,Single,27600
+62,Other,Master's Degree,Business,Married,Married,67500
+18,Male,High School,Healthcare,Single,Single,14700
+69,Male,PhD,Business,Divorced,Single,81000
+68,Female,PhD,Tech,Married,Married,81100
+46,Male,Master's Degree,Education,Divorced,Married,78700
+21,Male,Bachelor's Degree,Healthcare,Divorced,Married,42500
+79,Male,Master's Degree,Business,Widowed,Married,53500
+60,Other,PhD,Education,Married,Married,97100
+28,Male,Master's Degree,Education,Widowed,Single,55400
+31,Male,Master's Degree,Other,Divorced,Single,53000
+35,Other,Bachelor's Degree,Business,Married,Married,40000
+38,Other,High School,Healthcare,Married,Married,19500
+38,Female,High School,Healthcare,Widowed,Married,12000
+20,Other,Bachelor's Degree,Tech,Divorced,Single,39400
+28,Male,PhD,Business,Single,Single,80400
+37,Female,Bachelor's Degree,Other,Single,Single,42700
+80,Male,Bachelor's Degree,Business,Widowed,Single,40000
+75,Male,Master's Degree,Business,Single,Single,56300
+32,Female,Master's Degree,Other,Divorced,Married,60700
+15,Female,High School,Student,Single,Single,9600
+24,Female,Bachelor's Degree,Healthcare,Single,Single,45700
+34,Female,PhD,Tech,Widowed,Married,88400
+49,Male,PhD,Healthcare,Divorced,Single,97900
+63,Other,Master's Degree,Education,Divorced,Married,50000
+53,Male,High School,Other,Married,Single,14700
+28,Other,Master's Degree,Healthcare,Divorced,Married,61100
+67,Female,Bachelor's Degree,Other,Divorced,Married,41100
+80,Female,PhD,Healthcare,Widowed,Single,85400
+68,Female,High School,Business,Married,Single,17300
+47,Other,Master's Degree,Healthcare,Single,Married,67800
+21,Other,Bachelor's Degree,Student,Single,Single,22300
+48,Other,High School,Other,Married,Single,10300
+44,Male,Master's Degree,Tech,Divorced,Single,76500
+39,Male,High School,Business,Widowed,Married,11000
+29,Male,PhD,Tech,Married,Married,98000
+29,Female,Master's Degree,Other,Divorced,Married,56500
+74,Male,PhD,Education,Married,Single,92000
+73,Other,Master's Degree,Education,Single,Single,57400
+19,Other,Bachelor's Degree,Business,Single,Single,34100
+52,Male,High School,Healthcare,Married,Single,11600
+20,Other,Bachelor's Degree,Business,Single,Single,32300
+77,Male,PhD,Other,Divorced,Married,98600
+30,Female,Master's Degree,Healthcare,Single,Married,72900
+75,Male,PhD,Healthcare,Single,Married,80900
+42,Male,Master's Degree,Tech,Single,Married,78000
+30,Male,PhD,Tech,Divorced,Single,99300
+71,Female,PhD,Education,Widowed,Single,97100
+47,Female,PhD,Tech,Widowed,Single,85800
+80,Male,Master's Degree,Other,Married,Married,54500
+18,Male,High School,Business,Single,Single,9700
+72,Other,PhD,Tech,Married,Married,95200
+76,Male,Master's Degree,Tech,Widowed,Married,57200
+44,Male,Master's Degree,Business,Single,Married,72300
+67,Male,Bachelor's Degree,Healthcare,Widowed,Single,38700
+49,Other,PhD,Business,Married,Single,84100
+16,Male,High School,Student,Single,Single,11000
+80,Male,Master's Degree,Other,Divorced,Married,68800
+16,Female,High School,Student,Single,Single,10900
+78,Other,PhD,Education,Divorced,Single,89900
+16,Other,High School,Student,Single,Single,17100
+57,Other,High School,Education,Divorced,Single,17900
+33,Female,Master's Degree,Healthcare,Divorced,Single,66000
+50,Other,Master's Degree,Education,Married,Married,57600
+37,Female,Bachelor's Degree,Other,Single,Single,45800
+18,Other,High School,Healthcare,Single,Single,12200
+60,Female,Bachelor's Degree,Education,Divorced,Married,29200
+66,Female,Bachelor's Degree,Other,Widowed,Single,42000
+19,Male,Bachelor's Degree,Student,Single,Single,29100
+79,Male,Bachelor's Degree,Other,Widowed,Married,29600
+61,Female,Bachelor's Degree,Tech,Married,Single,43100
+67,Female,High School,Other,Married,Single,17800
+77,Other,PhD,Tech,Widowed,Married,94500
+28,Male,PhD,Business,Single,Single,92300
+19,Female,Bachelor's Degree,Business,Single,Single,25700
+55,Other,PhD,Healthcare,Widowed,Married,82600
+18,Male,High School,Education,Single,Single,19000
+63,Other,Master's Degree,Tech,Widowed,Married,55700
+65,Female,Bachelor's Degree,Business,Single,Married,43700
+43,Male,Bachelor's Degree,Tech,Married,Married,48800
+57,Other,PhD,Healthcare,Widowed,Single,98800
+60,Other,PhD,Business,Single,Single,88700
+55,Other,High School,Healthcare,Single,Single,19900
+17,Female,High School,Student,Single,Single,12000
+26,Other,Bachelor's Degree,Healthcare,Married,Single,29500
+75,Other,Master's Degree,Tech,Divorced,Single,61300
+67,Female,Master's Degree,Healthcare,Widowed,Single,61700
+17,Male,High School,Student,Single,Single,13500
+45,Female,PhD,Healthcare,Divorced,Married,85400
+41,Other,Master's Degree,Business,Single,Married,57700
+77,Female,Bachelor's Degree,Business,Married,Married,38800
+71,Male,High School,Tech,Married,Married,14900
+65,Male,Master's Degree,Healthcare,Divorced,Married,67700
+54,Female,Master's Degree,Other,Married,Single,58400
+21,Other,Bachelor's Degree,Other,Married,Single,44300
+72,Female,Bachelor's Degree,Education,Single,Married,35500
+51,Female,PhD,Other,Single,Single,85900
+79,Other,Master's Degree,Education,Widowed,Married,73100
+78,Male,Bachelor's Degree,Tech,Divorced,Single,41300
+16,Male,High School,Student,Single,Single,13900
+54,Other,High School,Tech,Widowed,Married,12500
+17,Other,High School,Student,Single,Single,14500
+19,Other,Bachelor's Degree,Tech,Single,Single,43700
+64,Other,Master's Degree,Education,Widowed,Married,71200
+58,Male,Bachelor's Degree,Business,Married,Single,33300
+64,Female,High School,Education,Married,Married,12400
+37,Male,Master's Degree,Tech,Single,Single,51400
+73,Female,PhD,Business,Divorced,Married,84800
+59,Other,Bachelor's Degree,Education,Widowed,Married,49300
+58,Female,PhD,Business,Divorced,Single,93200
+68,Other,PhD,Tech,Widowed,Married,96800
+42,Male,Bachelor's Degree,Other,Married,Married,26300
+41,Female,Bachelor's Degree,Healthcare,Single,Married,22100
+63,Female,Master's Degree,Business,Married,Married,58300
+76,Other,Master's Degree,Business,Divorced,Married,51600
+53,Male,High School,Tech,Divorced,Married,15700
+55,Other,PhD,Education,Single,Single,93000
+72,Female,Bachelor's Degree,Tech,Divorced,Single,43300
+61,Other,High School,Business,Divorced,Single,16200
+55,Other,Master's Degree,Business,Married,Married,73700
+43,Other,High School,Business,Divorced,Married,18000
+70,Male,PhD,Education,Divorced,Married,82700
+33,Male,Bachelor's Degree,Tech,Single,Married,23800
+50,Female,PhD,Other,Married,Married,95400
+59,Female,Bachelor's Degree,Other,Single,Married,21800
+40,Other,High School,Tech,Married,Single,16900
+25,Female,Bachelor's Degree,Other,Married,Married,33600
+27,Male,PhD,Education,Married,Single,92500
+22,Other,Bachelor's Degree,Education,Widowed,Single,40400
+61,Other,Master's Degree,Tech,Widowed,Single,64200
+58,Female,High School,Healthcare,Single,Single,8100
+72,Other,PhD,Other,Single,Married,97900
+78,Male,High School,Education,Married,Married,9600
+61,Other,Bachelor's Degree,Education,Widowed,Single,29800
+50,Other,Bachelor's Degree,Other,Married,Married,38400
+27,Other,Master's Degree,Education,Married,Single,61600
+60,Other,Bachelor's Degree,Tech,Widowed,Married,44000
+55,Other,High School,Business,Divorced,Married,14300
+22,Male,Bachelor's Degree,Healthcare,Single,Married,43100
+41,Other,Master's Degree,Other,Divorced,Married,60500
+16,Male,High School,Student,Single,Single,12000
+18,Female,High School,Other,Single,Single,13000
+23,Other,Master's Degree,Student,Single,Married,64900
+65,Female,PhD,Healthcare,Single,Married,90700
+57,Other,High School,Other,Single,Single,8200
+80,Other,Bachelor's Degree,Education,Married,Married,47500
+27,Other,PhD,Other,Widowed,Married,88900
+31,Female,Master's Degree,Healthcare,Married,Single,78000
+30,Other,PhD,Education,Single,Married,88400
+43,Male,PhD,Other,Married,Single,99000
+50,Male,PhD,Tech,Divorced,Single,82800
+58,Other,Master's Degree,Business,Married,Single,53100
+55,Male,PhD,Tech,Divorced,Married,88600
+45,Male,High School,Healthcare,Divorced,Single,8700
+21,Female,Bachelor's Degree,Student,Married,Single,27100
+71,Other,Master's Degree,Business,Single,Married,79900
+80,Female,PhD,Other,Widowed,Single,90200
+47,Male,Master's Degree,Other,Divorced,Single,61500
+17,Female,High School,Student,Single,Single,16000
+29,Other,PhD,Healthcare,Married,Single,90200
+24,Other,Master's Degree,Education,Single,Single,61000
+71,Other,High School,Healthcare,Divorced,Married,8700
+35,Male,Bachelor's Degree,Education,Single,Single,47600
+49,Other,PhD,Education,Divorced,Married,96000
+36,Other,Bachelor's Degree,Business,Widowed,Married,32200
+43,Male,PhD,Business,Single,Single,86900
+39,Other,Master's Degree,Healthcare,Divorced,Married,76900
+29,Other,PhD,Healthcare,Widowed,Single,90000
+25,Other,Master's Degree,Healthcare,Divorced,Single,76500
+75,Other,PhD,Tech,Married,Single,84100
+72,Female,Master's Degree,Education,Single,Single,65600
+39,Male,PhD,Other,Single,Single,87600
+62,Female,Master's Degree,Education,Single,Married,50700
+65,Other,High School,Other,Married,Single,12000
+17,Female,High School,Student,Single,Single,9500
+42,Other,High School,Education,Divorced,Married,19100
+29,Female,PhD,Tech,Widowed,Married,96100
+47,Other,High School,Healthcare,Widowed,Married,8100
+62,Male,Master's Degree,Other,Married,Married,74200
+35,Female,High School,Healthcare,Married,Single,8100
+32,Male,Bachelor's Degree,Business,Widowed,Married,39400
+47,Male,PhD,Education,Divorced,Single,97000
+59,Female,PhD,Healthcare,Widowed,Single,86700
+75,Male,Master's Degree,Tech,Widowed,Single,79600
+63,Male,PhD,Healthcare,Widowed,Single,85100
+25,Other,Master's Degree,Student,Divorced,Married,79800
+34,Female,Bachelor's Degree,Tech,Widowed,Single,22500
+52,Female,PhD,Healthcare,Divorced,Single,90300
+19,Other,Bachelor's Degree,Business,Single,Single,43400
+65,Male,Master's Degree,Business,Married,Married,56800
+24,Other,Master's Degree,Student,Divorced,Married,61600
+49,Female,High School,Healthcare,Married,Single,12600
+73,Other,Bachelor's Degree,Business,Married,Single,27000
+23,Male,Bachelor's Degree,Tech,Widowed,Single,33400
+69,Female,Bachelor's Degree,Tech,Widowed,Married,21300
+77,Male,PhD,Tech,Widowed,Married,89500
+17,Other,High School,Student,Single,Single,9000
+49,Other,Master's Degree,Other,Widowed,Single,79300
+50,Female,Bachelor's Degree,Business,Married,Single,40200
+35,Other,PhD,Other,Married,Single,87000
+59,Other,High School,Business,Widowed,Married,9800
+56,Male,Bachelor's Degree,Healthcare,Single,Married,48800
+34,Male,High School,Tech,Divorced,Single,11100
+54,Other,PhD,Tech,Divorced,Single,94200
+77,Female,High School,Business,Single,Married,12500
+43,Male,Bachelor's Degree,Other,Single,Married,33500
+54,Other,Master's Degree,Other,Single,Married,75900
+22,Other,Bachelor's Degree,Education,Single,Married,24500
+23,Female,Bachelor's Degree,Business,Widowed,Single,41300
+22,Female,Bachelor's Degree,Student,Single,Single,40200
+55,Male,PhD,Education,Widowed,Married,92800
+66,Other,PhD,Business,Divorced,Married,92700
+37,Other,Master's Degree,Other,Married,Married,77200
+42,Male,High School,Healthcare,Widowed,Single,12100
+26,Female,Bachelor's Degree,Education,Married,Married,24400
+40,Female,PhD,Healthcare,Married,Single,90700
+43,Female,Bachelor's Degree,Healthcare,Married,Single,26900
+36,Male,PhD,Other,Single,Married,95300
+54,Female,High School,Other,Divorced,Single,15200
+55,Other,PhD,Business,Single,Married,88700
+35,Other,PhD,Education,Widowed,Single,92700
+49,Other,High School,Tech,Married,Married,10400
+77,Male,PhD,Other,Married,Married,80300
+33,Other,PhD,Other,Single,Married,95300
+69,Female,High School,Other,Married,Single,10300
+80,Other,PhD,Business,Single,Single,93800
+23,Male,Master's Degree,Tech,Widowed,Single,66300
+57,Other,PhD,Education,Widowed,Single,98400
+28,Female,PhD,Other,Married,Single,87400
+17,Male,High School,Student,Single,Single,16700
+71,Other,PhD,Healthcare,Widowed,Married,80300
+73,Other,Bachelor's Degree,Business,Married,Married,29600
+24,Male,Bachelor's Degree,Student,Single,Married,49100
+24,Female,Master's Degree,Other,Widowed,Married,55800
+22,Male,Bachelor's Degree,Business,Widowed,Single,43800
+71,Other,High School,Education,Widowed,Single,8400
+62,Other,Bachelor's Degree,Education,Widowed,Single,30000
+43,Male,High School,Healthcare,Single,Single,14900
+43,Male,PhD,Tech,Divorced,Single,90100
+25,Female,Master's Degree,Tech,Married,Single,67900
+20,Male,Bachelor's Degree,Education,Divorced,Single,20800
+60,Male,Master's Degree,Education,Single,Single,55700
+20,Other,Bachelor's Degree,Healthcare,Single,Married,23700
+46,Female,Bachelor's Degree,Healthcare,Single,Single,26300
+44,Female,PhD,Healthcare,Single,Married,82000
+61,Male,Bachelor's Degree,Tech,Widowed,Married,45500
+38,Other,PhD,Tech,Single,Single,80900
+33,Male,Bachelor's Degree,Tech,Married,Single,26200
+61,Female,High School,Other,Widowed,Single,18700
+28,Female,PhD,Other,Married,Single,88800
+45,Female,PhD,Other,Widowed,Married,92800
+64,Female,High School,Education,Single,Married,11400
+70,Male,Bachelor's Degree,Tech,Divorced,Single,45800
+20,Other,Bachelor's Degree,Healthcare,Widowed,Married,22100
+53,Male,High School,Business,Married,Married,16400
+39,Female,Master's Degree,Business,Single,Single,63800
+20,Other,Bachelor's Degree,Other,Single,Single,47200
+25,Female,Bachelor's Degree,Healthcare,Widowed,Single,45600
+77,Female,PhD,Other,Single,Single,85800
+42,Female,High School,Education,Widowed,Married,15800
+61,Female,High School,Business,Single,Single,13000
+32,Male,Master's Degree,Education,Single,Married,56800
+71,Female,High School,Education,Married,Single,13600
+71,Male,High School,Tech,Married,Single,9400
+68,Male,PhD,Other,Married,Single,90200
+29,Female,Master's Degree,Business,Widowed,Single,71200
+27,Male,PhD,Healthcare,Divorced,Single,86100
+63,Female,High School,Healthcare,Widowed,Single,8400
+49,Male,PhD,Business,Widowed,Married,85600
+71,Female,PhD,Education,Divorced,Married,92700
+78,Male,Bachelor's Degree,Business,Married,Single,31400
+70,Female,PhD,Education,Married,Single,91400
+69,Female,Bachelor's Degree,Healthcare,Married,Single,20100
+70,Other,Master's Degree,Tech,Divorced,Married,67900
+56,Other,High School,Education,Married,Single,8600
+33,Female,High School,Business,Widowed,Single,10900
+77,Other,PhD,Healthcare,Married,Single,92800
+47,Female,PhD,Business,Single,Married,86900
+72,Other,Master's Degree,Other,Divorced,Single,56400
+60,Female,Master's Degree,Other,Single,Single,62900
+40,Other,High School,Tech,Married,Married,16300
+58,Other,PhD,Healthcare,Married,Single,95100
+62,Other,PhD,Business,Married,Single,92600
+65,Male,Master's Degree,Other,Widowed,Single,69300
+66,Female,High School,Business,Single,Married,17900
